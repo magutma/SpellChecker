@@ -3,7 +3,7 @@ import xlrd
 import xlsxwriter
 
 spell = SpellChecker()
-
+#Anpassung
 
 workbook = xlsxwriter.Workbook('Example2.xlsx')
 worksheet = workbook.add_worksheet()
